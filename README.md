@@ -1,4 +1,4 @@
-# Real-Time Portfolio Tracker with AI Insights
+# Portfolio Pulse
 
 A full-stack portfolio tracking application that connects to real brokerage accounts via Plaid, displays real-time market data, and provides ML-powered insights including price predictions and sentiment analysis.
 
